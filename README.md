@@ -5,5 +5,4 @@ Spring 2016
 
 
 Member:
-Yongjiang Liang
-Mustakimur Rahman Khandaker
+Yongjiang Liang, Mustakimur Rahman Khandaker
